@@ -1,6 +1,6 @@
 ## Cisco DevNet Learning Labs Sample Code
 
-These code examples provide Python scripts for parsing JSON and introducting general concepts.
+These code examples provide Python scripts for parsing JSON and introducing general concepts.
 
 The step-by-step tutorials that work with this code are Learning Labs, displayed within the Cisco DevNet Learning Labs system.
 
