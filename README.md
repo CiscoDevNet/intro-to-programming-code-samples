@@ -10,7 +10,7 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-If you need help, you can contact DevNet through the Developer Support room in Cisco Spark.
+If you need help, you can contact DevNet through the Developer Support room in Webex Teams.
 
 ## Contributing
 
